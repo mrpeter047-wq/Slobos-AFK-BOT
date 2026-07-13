@@ -28,7 +28,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 180,
+      "repeat-delay": 40,
       "messages": [
         "للرجوع الى قبرك /back",
         "لانشاء كليم اكتب /kit claim وحدد الكليم الي تريدة عن طريق الشفل الي يجيك",
